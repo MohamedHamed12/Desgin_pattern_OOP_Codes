@@ -1,4 +1,7 @@
 
+#https://leetcode.com/problems/design-parking-system/
+
+
 # bad code
 class ParkingSystem:
     def __init__(self, big: int, medium: int, small: int):
@@ -28,7 +31,7 @@ a = ParkingSystem(1, 1, 0)
 print(a.addCar(1))
 
 
-
+#fixed code 
 
 # Utilizing Design Patterns:
 #   Factory Pattern , Composition Pattern
